@@ -112,7 +112,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: hosua3823@kakao.com
+      url: "mailTo:hosua3823@kakao.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/KimKyao"
