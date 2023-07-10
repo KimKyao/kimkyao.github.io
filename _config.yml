@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "캬오 공부방(공사중)"
 title_separator          : "-"
 subtitle                 : "version 1.0"
-name                     : "김캬오(Kyao Kim)"q
+name                     : "김캬오(Kyao Kim)"
 description              : "공부는 평생하는 취미"
 url                      : "https://kimkyao.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
