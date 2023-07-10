@@ -12,7 +12,7 @@ docs:
     children:
       - title: "기초"
         url: per/
-        category: "확률"
+        category: "per"
 
   - title: Etc
     children:

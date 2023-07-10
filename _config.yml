@@ -278,9 +278,11 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true
       share: true
       related: true
+      mathjax: true
+      sidebar_main: true
   # _pages                      : 해당 하단 영역이 새로 추가되었습니다.
   - scope:
       path: "_pages"
