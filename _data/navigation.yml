@@ -9,3 +9,24 @@ main:
   - title: "Tag"
     url: /tags/
     toggleable: false
+
+
+
+docs:
+  - title: AI
+    children:
+      - title: "Model"
+        url: model/
+        category: "model"
+
+  - title: 확률
+    children:
+      - title: "Ubuntu"
+        url: ubuntu/
+        category: "ubuntu"
+
+  - title: Etc
+    children:
+      - title: "Jekyll"
+        url: jekyll/
+        category: "jekyll"    
