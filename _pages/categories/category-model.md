@@ -1,5 +1,5 @@
 ---
-title: "주저리"
+title: "모델"
 layout: archive
 permalink: categories/model
 author_profile: true
@@ -10,5 +10,5 @@ sidebar_main: true
 
 ***
 
-{% assign posts = site.categories['Algorithm Lesson 2'] %}
+{% assign posts = site.categories['model'] %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}

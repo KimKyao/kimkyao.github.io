@@ -3,7 +3,7 @@ docs:
     children:
       - title: "Model"
         url: model/
-        category: "model"
+        category: "Model"
       - title: "ai-work"
         url: work/
         category: "work"        

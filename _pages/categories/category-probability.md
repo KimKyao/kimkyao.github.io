@@ -1,7 +1,7 @@
 ---
-title: "주저리"
+title: "확률론"
 layout: archive
-permalink: categories/per
+permalink: categories/probability
 author_profile: true
 sidebar_main: true
 ---
@@ -10,5 +10,5 @@ sidebar_main: true
 
 ***
 
-{% assign posts = site.categories['Algorithm Lesson 2'] %}
+{% assign posts = site.categories['probability'] %}
 {% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
