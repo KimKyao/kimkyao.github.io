@@ -1,21 +1,8 @@
-docs:
-  - title: AI
-    children:
-      - title: "Model"
-        url: model/
-        category: "Model"
-      - title: "ai-work"
-        url: work/
-        category: "work"        
-
-  - title: 확률
-    children:
-      - title: "기초"
-        url: per/
-        category: "per"
-
-  - title: Etc
-    children:
-      - title: "etc"
-        url: etc/
-        category: "etc"    
+# main links
+main:
+  - title: "Home"
+    url: /index.html
+  #- title: "About"
+    #url: /about/
+  - title: "Category"
+    url: /categories/
