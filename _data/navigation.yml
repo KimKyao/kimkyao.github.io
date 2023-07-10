@@ -1,32 +1,21 @@
-# main links
-main:
-  - title: "Contact"
-    url: /contact/
-    toggleable: true
-  - title: "Category"
-    url: /categories/
-    toggleable: true
-  - title: "Tag"
-    url: /tags/
-    toggleable: false
-
-
-
 docs:
   - title: AI
     children:
       - title: "Model"
         url: model/
         category: "model"
+      - title: "ai-work"
+        url: work/
+        category: "work"        
 
   - title: 확률
     children:
-      - title: "Ubuntu"
-        url: ubuntu/
-        category: "ubuntu"
+      - title: "기초"
+        url: per/
+        category: "확률"
 
   - title: Etc
     children:
-      - title: "Jekyll"
-        url: jekyll/
-        category: "jekyll"    
+      - title: "etc"
+        url: etc/
+        category: "etc"    

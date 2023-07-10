@@ -1,14 +1,14 @@
 ---
 layout: archive
-permalink: ai
-title: "AI"
+permalink: model
+title: "model"
 
 author_profile: true
 sidebar:
   nav: "docs"
 ---
 
-{% assign posts = site.categories.ai %}
+{% assign posts = site.categories.model %}
 {% for post in posts %}
   {% include custom-archive-single.html type=entries_layout %}
 {% endfor %}
@@ -52,10 +52,10 @@ sidebar:
 ---
 layout: single
 title:  "사이드바 메뉴 설정"
-folder: "ai"
+folder: "model"
 categories:
-  - ai
-tags: [blog, ai]
+  - model
+tags: [blog, model]
 
 author_profile: true
 sidebar:
