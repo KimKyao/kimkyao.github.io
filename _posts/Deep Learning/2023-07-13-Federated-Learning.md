@@ -1,14 +1,14 @@
 ---
-title:  "[기타] 고윳값과 고유벡터" 
+title:  "[DL][기초] 연합학습(Federated Learning)" 
 
 categories:
-  - etc
+  - dl
 
 toc: true
 toc_sticky: true
 
-date: 2023-07-11
-last_modified_at: 2023-07-11
+date: 2023-07-13
+last_modified_at: 2023-07-13
 ---
 
 고유벡터와 고윳값이 물어보는 것:
